@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Ravenous/static/css/main.f3c2758f.chunk.css",
+    "main.js": "/Ravenous/static/js/main.850ab1c0.chunk.js",
+    "main.js.map": "/Ravenous/static/js/main.850ab1c0.chunk.js.map",
+    "runtime-main.js": "/Ravenous/static/js/runtime-main.435952ba.js",
+    "runtime-main.js.map": "/Ravenous/static/js/runtime-main.435952ba.js.map",
+    "static/js/2.360c1fab.chunk.js": "/Ravenous/static/js/2.360c1fab.chunk.js",
+    "static/js/2.360c1fab.chunk.js.map": "/Ravenous/static/js/2.360c1fab.chunk.js.map",
+    "index.html": "/Ravenous/index.html",
+    "static/css/main.f3c2758f.chunk.css.map": "/Ravenous/static/css/main.f3c2758f.chunk.css.map",
+    "static/js/2.360c1fab.chunk.js.LICENSE.txt": "/Ravenous/static/js/2.360c1fab.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/Ravenous/static/media/background_search_mobile.a6f8ee50.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.435952ba.js",
+    "static/js/2.360c1fab.chunk.js",
+    "static/css/main.f3c2758f.chunk.css",
+    "static/js/main.850ab1c0.chunk.js"
+  ]
+}
