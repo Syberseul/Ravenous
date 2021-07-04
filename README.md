@@ -22,3 +22,10 @@
   ### to make sure the Yelp api works fine, copy following link and open in your browser:
   - https://cors-anywhere.herokuapp.com/corsdemo
   - Click the button for asking temporary access.
+
+- Demo:
+
+https://user-images.githubusercontent.com/32564367/124378301-f75a8380-dcf3-11eb-9e3b-fa3c0049a5f2.MP4
+
+# Contact Email:
+yteng.huang@gmail.com
