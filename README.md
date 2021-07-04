@@ -20,5 +20,5 @@
     - `npm install` or
     - `yarn add `
   ### to make sure the Yelp api works fine, copy following link and open in your browser:
-  - `https://cors-anywhere.herokuapp.com/corsdemo`
+  - https://cors-anywhere.herokuapp.com/corsdemo
   - Click the button for asking temporary access.
