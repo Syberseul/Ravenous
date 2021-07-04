@@ -1,8 +1,8 @@
 # Ravenous restaurant search demo
 
 - ### About the Project:
-  A live version to check restaurant by address
-
+  A live version to check restaurant by location
+  
 - ### Feature:
   - use Yelp api to fetch live data and display on the page.
   - search restaurant by place, listed by either 
